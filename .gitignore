@@ -1,1 +1,5 @@
-
+hello_server
+go-docker
+out/
+vendor/
+_vendor-*
